@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: remove these if not required */
 @import "tailwindcss";
 @import "tw-animate-css";
 
